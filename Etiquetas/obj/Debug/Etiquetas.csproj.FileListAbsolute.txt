@@ -1,0 +1,10 @@
+C:\Users\ProjetasSI\source\repos\Etiquetas\Etiquetas\bin\Debug\Etiquetas.exe.config
+C:\Users\ProjetasSI\source\repos\Etiquetas\Etiquetas\bin\Debug\Etiquetas.exe
+C:\Users\ProjetasSI\source\repos\Etiquetas\Etiquetas\bin\Debug\Etiquetas.pdb
+C:\Users\ProjetasSI\source\repos\Etiquetas\Etiquetas\obj\Debug\Etiquetas.csprojResolveAssemblyReference.cache
+C:\Users\ProjetasSI\source\repos\Etiquetas\Etiquetas\obj\Debug\Etiquetas.Form1.resources
+C:\Users\ProjetasSI\source\repos\Etiquetas\Etiquetas\obj\Debug\Etiquetas.Properties.Resources.resources
+C:\Users\ProjetasSI\source\repos\Etiquetas\Etiquetas\obj\Debug\Etiquetas.csproj.GenerateResource.cache
+C:\Users\ProjetasSI\source\repos\Etiquetas\Etiquetas\obj\Debug\Etiquetas.csproj.CoreCompileInputs.cache
+C:\Users\ProjetasSI\source\repos\Etiquetas\Etiquetas\obj\Debug\Etiquetas.exe
+C:\Users\ProjetasSI\source\repos\Etiquetas\Etiquetas\obj\Debug\Etiquetas.pdb
